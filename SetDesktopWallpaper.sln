@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetDesktopWallpaper", "SetDesktopWallpaper.csproj", "{D1AF0C2B-6D08-41D0-A5F1-2531765749BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1AF0C2B-6D08-41D0-A5F1-2531765749BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AF0C2B-6D08-41D0-A5F1-2531765749BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AF0C2B-6D08-41D0-A5F1-2531765749BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AF0C2B-6D08-41D0-A5F1-2531765749BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B227ED84-4E1B-4D3C-9D04-7326C3C9F5CC}
+	EndGlobalSection
+EndGlobal
