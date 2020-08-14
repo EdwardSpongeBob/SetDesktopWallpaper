@@ -1,4 +1,4 @@
-# What this program does
+# What This Program Does
 
 1. Asks the user for a root folder.
 2. Gathers all files from the root folder and its subfolders recursively.
