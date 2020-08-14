@@ -8,7 +8,7 @@
 # Special Features
 
 1. If the program finds the right image, the image will always fit the user's display device (e.g. monitor).
-2. If the image is set as a desktop wallpaper successfully, the program will remember the path of the root folder selected by user.
+2. If the image is set as a desktop wallpaper successfully, the program will remember the path of the root folder selected by the user.
 
 # Note
 
