@@ -173,7 +173,7 @@ namespace SetDesktopWallpaper
 		{
 			// Read the path of the folder previously chosen by user
 			string myDocuments = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-			string rootFolderDir = Path.Combine(myDocuments, "SetBackgroundImage");
+			string rootFolderDir = Path.Combine(myDocuments, "SetDesktopWallpaper");
 			Directory.CreateDirectory(rootFolderDir);
 
 			string rootFolderFile = Path.Combine(rootFolderDir, "rootFolder.txt");
@@ -185,7 +185,7 @@ namespace SetDesktopWallpaper
 			// Ask for a root folder
 			FolderBrowserDialog dialog = new FolderBrowserDialog
 			{
-				Description = "Please choose a folder below:",
+				Description = "Please choose a root folder below:",
 				ShowNewFolderButton = false
 			};
 

@@ -15,7 +15,7 @@
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>C:\Users\jacoby\Documents\setBackgroundImage\</PublishUrl>
+    <PublishUrl>D:\SetDesktopWallpaper\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -53,10 +53,10 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>2D3AA7A30E0CAFB7A6132DC00048F2803BA4B756</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>817B9A70DC96B7F7BD877A78D9CD727CB9365FA6</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>SetBackgroundImage_1_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>SetDesktopWallpaper_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -85,6 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="SetDesktopWallpaper_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6">
