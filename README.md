@@ -6,7 +6,7 @@ Users who have a large number (10,000+) of image files under a single folder and
 
 1. Asks the user for a root folder.
 2. Gathers all files from the root folder and its subfolders recursively.
-3. Finds the right image from the list of files.
+3. Finds the right image randomly from the list of files.
 4. Sets this image as a desktop wallpaper in Windows.
 
 # Special Features
